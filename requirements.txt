@@ -73,7 +73,7 @@ msgpack-numpy==0.4.3.2
 multidict==4.5.2
 murmurhash==1.0.2
 networkx==2.3
-numpy==1.17.0
+numpy==1.22.0
 packaging==19.1
 pika==1.0.1
 plac==0.9.6
